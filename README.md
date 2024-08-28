@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# I am Sean McMeans
-# My major is Computer Science
+I am Sean McMeans
+My major is Computer Science
 <!--
 **smcmeans/smcmeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
