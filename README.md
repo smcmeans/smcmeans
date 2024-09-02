@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I am Sean McMeans
-##### My major is Computer Science
+I am Sean McMeans  
+My major is computer science  
+  
+I am planning on making an andriod music player app and  
+a game using the godot engine this year
 <!--
 **smcmeans/smcmeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
