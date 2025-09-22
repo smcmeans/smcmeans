@@ -3,8 +3,9 @@
 I am Sean McMeans  
 My major is computer science  
   
-I am planning on making an andriod music player app and  
-a game using the godot engine this year
+I am currently working on a website that allows students to create schedules in linen with their majors and minors.
+
+I'm learning the basics of godot and sprite making for a tower defence game I am making.
 <!--
 **smcmeans/smcmeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
